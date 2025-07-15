@@ -4,7 +4,7 @@
 
 ## Current Version: **0.1.0.0**
 
-This current version has desired functionality for singular POI blurring with acceptable distance and movement tracking.
+This current version is the initialized form of the workshop.
 
 ## Table of Contents
 1. [Running](#running)
